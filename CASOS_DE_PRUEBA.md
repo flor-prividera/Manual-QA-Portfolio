@@ -10,6 +10,9 @@
 | **TC-003** | Filters | Apply "Action" genre filter | Content catalog is open | 1. Open filters menu. 2. Select "Action" genre. 3. Click Apply. | Display only action movies/series. | High | Passed |
 | **TC-004** | Login | Login with invalid credentials | User is on Login page | 1. Enter invalid email. 2. Enter wrong password. 3. Click Login. | Show "Invalid credentials" error message. | High | Passed |
 | **TC-005** | Playback | Play content as a guest user | User is not logged in | 1. Select a premium movie. 2. Click Play. | Prompt user to log in or subscribe. | High | Passed |
+| **TC-006** | Responsive Design | 1. Resize the browser window to mobile dimensions. | The menu and movie posters should adjust correctly without being cut off. |  |  | Medium | Passed |
+
+
 
 
 
