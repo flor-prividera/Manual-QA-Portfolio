@@ -1,11 +1,10 @@
 # Test Cases - Flow Web Platform
-# Test Cases - Flow Web Platform
 
-🌐 [English Version](#test-cases---flow-web-platform) |
+
 
 ---
 
-🌐 *Read this in [Español](#casos-de-prueba---plataforma-flow-web)*
+ [Versión en Español](#casos-de-prueba---plataforma-flow-web)
 
 
 | ID | Module | Title | Precondition | Steps | Expected Result | Priority | Status |
@@ -20,8 +19,8 @@
 
 
 
- [Versión en Español](#casos-de-prueba---plataforma-flow-web)
 
+🌐 [English Version](#test-cases---flow-web-platform) |
 
 # 📝 Casos de Prueba - Flow Web
 
