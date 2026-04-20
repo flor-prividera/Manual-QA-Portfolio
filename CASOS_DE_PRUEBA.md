@@ -1,4 +1,9 @@
 # Test Cases - Flow Web Platform
+# Test Cases - Flow Web Platform
+
+🌐 [English Version](#test-cases---flow-web-platform) |
+
+---
 
 🌐 *Read this in [Español](#casos-de-prueba---plataforma-flow-web)*
 
@@ -15,7 +20,7 @@
 
 
 
-## Versión en español
+ [Versión en Español](#casos-de-prueba---plataforma-flow-web)
 
 
 # 📝 Casos de Prueba - Flow Web
