@@ -15,9 +15,11 @@
 
 
 
+## Versión en español
+
 
 # 📝 Casos de Prueba - Flow Web
-## Versión en español
+
 En este documento se detallan los pasos para validar las funcionalidades principales de la plataforma.
 
 
